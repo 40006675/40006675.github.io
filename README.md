@@ -1,37 +1,142 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/40006675/40006675.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/40006675/40006675.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html xmlns="http://40006675.github.io">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+ 
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+#aa {
+	position: fixed;
+	height: 662px;
+	width: 1366px;
+	background: #FFF;
+}
+#bb {
+	background: #FFF;
+	position: absolute;
+	height: 401px;
+	width: 1398px;
+	left: -31px;
+	top: 0px;
+}
+#cc {
+	background: #09C;
+	position: absolute;
+	height: 63px;
+	width: 1404px;
+	left: -34px;
+	top: 418px;
+	font-size: 36px;
+	color: #FFF;
+}
+#dd {
+	position: absolute;
+	height: 124px;
+	width: 175px;
+	left: 1142px;
+	top: 136px;
+}
+#ee {
+	position: absolute;
+	height: 295px;
+	width: 510px;
+	left: 953px;
+	top: 70px;
+	line-height: 24px;
+}
+#ff {
+	position: absolute;
+	height: 66px;
+	width: 214px;
+	left: 600px;
+	top: 553px;
+	font-size: 45px;
+	font-weight: bold;
+}
+.gg {
+	font-size: 36px;
+}
+#aa #bb #ee table tr td {
+	color: #000;
+}
+#aa #bb #ee table {
+	color: #000;
+}
+#gg {
+	position: absolute;
+	height: 161px;
+	width: 195px;
+	left: 573px;
+	top: -55px;
+	font-size: 16px;
+}
+</style>
+</head>
+ 
+<body>
+<div id="aa">
+  <div id="cc">                                                            青春     奔放    活泼    热情&copy;</div>
+  <div id="bb">
+    <div id="ee">
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><hr /></td>
+        </tr>
+        <tr>
+          <td><p>姓名：%%%</p></td>
+        </tr>
+        <tr>
+          <td>性别：男</td>
+        </tr>
+        <tr>
+          <td>年龄：19</td>
+        </tr>
+        <tr>
+          <td>家乡：<a href="http://baike.baidu.com/link?url=ZkJSggcN2Nl7Xe0HaB0hSRrMkIdo-VGCNJWpbPIWNt1-M7xPr4FkF2qdxHGCMz3lT0LdGTsXi5zMtwMWKZ5S3Pz8elmt9ATA1omMMMfTIBSdG430mMTTJk0MyAlQO88B">甘肃省镇原县</a></td>
+        </tr>
+        <tr>
+          <td>就读院校：<a href="http://baike.baidu.com/item/%E5%9B%9B%E5%B7%9D%E5%A4%A7%%A6">**大学</a></td>
+        </tr>
+        <tr>
+          <td>就读专业：<a href="http://baike.baidu.com/item/%E5%BE%AE%E7%94%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A">微电子科学与工程专业</a></td>
+        </tr>
+        <tr>
+          <td>学生证号：201614#######</td>
+        </tr>
+        <tr>
+          <td>兴趣爱好：听歌，打篮球</td>
+        </tr>
+        <tr>
+          <td>政治面貌：团员</td>
+        </tr>
+        <tr>
+          <td>联系电话：13245676543</td>
+        </tr>
+        <tr>
+          <td>Email:179997256@qq.com</td>
+        </tr>
+        <tr>
+          <td>关键词：学生</td>
+        </tr>
+        <tr>
+          <td> </td>
+        </tr>
+      </table>
+    </div>
+    <img src="img/1497103056360.jpg" width="1398" height="403" /></div>
+  <div id="ff">
+    <div id="gg">
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p><a href="zhuye.html">回到主页</a></p>
+      <form id="form1" name="form1" method="post" action="">
+      </form>
+    </div>
+  About  me</div>
+</div>
+</body>
+</html>
